@@ -1,4 +1,4 @@
-/*GitHub2026_10_25_22_40PM*/
+/*GitHub2026_10_25_22_40PM2*/
 import java.util.Scanner;
 public class Do_whileExercise2026_10_25_21_41PM {
     public static void main(String[] args) {
